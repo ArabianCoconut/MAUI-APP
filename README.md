@@ -1,4 +1,3 @@
 # MAUI-APP
-Learning MAUI App
 
-## Test entry
+Learning MAUI App
